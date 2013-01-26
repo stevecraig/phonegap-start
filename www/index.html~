@@ -39,6 +39,5 @@
         <script type="text/javascript">
             app.initialize();
         </script>
-<script src="childbrowser.js"></script>
     </body>
 </html>
